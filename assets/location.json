@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Maurya Medico",
+    "address": "Jai Prakash Nagar, Patna, Bihar 800001",
+    "coords": {
+      "latitude": 25.591062672161097,
+      "longitude":  85.12393782594098
+    },
+    "phoneNumber" : null, 
+    "img_url": "https://lh5.googleusercontent.com/p/AF1QipNa7rNVbcHmxv0Jop48m8OPU2dFlJ7pv6e586jj=w426-h240-k-no"
+  },
+  {
+    "name": "Shri Parshuram Medico",
+    "address": "Near Ram Lakhan Matho Flats, Kushwaha Market, Jakkanpur, Old Jakkanpur, Patna, Bihar 800001",
+    "coords": {
+      "latitude": 25.590404666742664, 
+      "longitude": 85.12440984978666
+    },
+    "phoneNumber" : 9308049783,
+    "img_url": "https://lh6.googleusercontent.com/proxy/tP4pOJayxax2E2tj_qZZZ4EUSTof7jAEIUFf8VoHLc_tTSg6_iwRwPEwCnXBcFlC-j5RVll2dJanid858i5aUiXhi-BpyFQP8rGJHldipcvv918M_WwQe64RYw3gf3PsiGBK6LjCsTfdHaxLlSFpR84aSUjpZiT9Hr9IMPuCGcTT=w408-h306-k-no"
+  },
+  {
+    "name": "Raj Medical Hall",
+    "address": "New Jakkanpur, Gardanibagh, Patna, Bihar 800001",
+    "coords": {
+      "latitude": 25.59702329968417, 
+      "longitude": 85.12114858571306
+    },
+    "phoneNumber" : 7700842875,
+    "img_url": "https://lh5.googleusercontent.com/p/AF1QipP9ZLZ8fkrVxMVjnnAGdYum7lvrFXp5vH4yKk_H=w408-h306-k-no"
+  },
+  {
+    "name": "Singh Medicals",
+    "address": "B Area, Jakkanpur, Mithapur, Patna, Bihar 800001",
+    "coords": {
+      "latitude": 25.59822238465615,
+      "longitude":  85.13299398697366
+    },
+    "phoneNumber" : null,
+    "img_url": "https://lh6.googleusercontent.com/proxy/A0cdCZUZ_43PziJba-qDbQH1yZBhm6eUdugxPYhQ0Mhrj0HxPwlM3pSrvOm5nmDApIPCzBZZzhQJ2w_H9Ht2NQ-BIEWQExQ4Kbg5NHG0MYRMr2aYRGGFFBslLY0FIMtG-qhxcjr6nBYG24Ha7cTthtDqOuMIdVvxoD3hQRIPgYcI=w408-h306-k-no"
+  },
+  {
+    "name": "New Lall Homoeo Pharmacy",
+    "address": "New Market, New Market Station Rd, behind Mosque, Patna, Bihar 800001",
+    "coords": {
+      "latitude": 25.604298658278243, 
+      "longitude": 85.13788802669973
+    },
+    "phoneNumber" : 9334103490,
+    "img_url": "https://lh5.googleusercontent.com/p/AF1QipP7L13ynSfo3xnB-Fasit0Gu4Tk1SZZ6M8grppN=w408-h544-k-no"
+  },
+  {
+    "name": "Medicine Centre",
+    "address": "Janak Market, Patna - Gaya Rd, Sipara, Patna, Bihar 800020",
+    "coords": {
+      "latitude": 25.582204908494475,
+      "longitude":  85.12804381028957
+    },
+    "phoneNumber" : 9431034232,
+    "img_url": "https://lh4.googleusercontent.com/proxy/YZ7J0YeWEfxGpKRHcdc2gDzdY3pTREbTQdBEfylJr9O-Gayptd1qFuwJ6nZyOzZiVgYH8J0os0IxUwnLT2ow5jHYAXDRqB9UBqLanMu2G17Q-K9CfQLCJqv36UT9HlOZu6CEnvv64v9Z7AOwIQnpv1CTfAfUD0zIZt2eOr_YQgv-=w408-h306-k-no"
+  }
+]
